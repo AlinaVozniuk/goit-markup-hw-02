@@ -39,7 +39,7 @@ background-color: #fff;}
 
 .main {background-color: #2E2F42;}
 
-.h1 {
+.main-item {
 font-family: "Roboto", sans-serif;
 font-size: 56px;
 line-height: 1.07;
@@ -81,7 +81,6 @@ line-height: 1.11;
 text-transform: capitalize;
 font-weight: 500;
 font-size: 36px;
-line-height: 1.1;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;}
